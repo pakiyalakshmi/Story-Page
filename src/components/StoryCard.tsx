@@ -1,4 +1,5 @@
 import { Card, CardContent, CardHeader } from "@/components/ui/card";
+import { Link } from "react-router-dom";
 
 interface StoryCardProps {
   title: string;
@@ -10,7 +11,7 @@ interface StoryCardProps {
 const StoryCard = ({ title, excerpt, image, link }: StoryCardProps) => {
   return (
     <Card className="overflow-hidden hover:shadow-lg transition-shadow duration-300 bg-gray-800 border-gray-700">
-      <a href={link}>
+      <Link to={link} className="block">
         <div className="relative h-48 overflow-hidden">
           <img 
             src={image} 
@@ -24,7 +25,7 @@ const StoryCard = ({ title, excerpt, image, link }: StoryCardProps) => {
         <CardContent>
           <p className="text-gray-400">{excerpt}</p>
         </CardContent>
-      </a>
+      </Link>
     </Card>
   );
 };

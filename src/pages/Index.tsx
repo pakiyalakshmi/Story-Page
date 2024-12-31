@@ -14,37 +14,37 @@ const Index = () => {
       title: "1 Spoon and 2 Eye Balls",
       excerpt: "A shocking story about a disturbing viral video on the internet.",
       image: "https://media.istockphoto.com/id/184991366/id/foto/mata-pada-sendok.jpg?s=1024x1024&w=is&k=20&c=kxdzXYB-NQcMi-wDXISJH-Y87aC29TIJalCKKvN_HcE=",
-      link: "#spoon"
+      link: "/stories/spoon"
     },
     {
       title: "Girl in the Mirror",
       excerpt: "A young boy meets a mysterious girl who only appears in mirrors.",
       image: "https://i.pinimg.com/originals/bf/10/a4/bf10a4a1774adb5eb8c2d43fc04133a2.jpg",
-      link: "#mirror"
+      link: "/stories/mirror"
     },
     {
       title: "You Are My Next Internet Star",
       excerpt: "A Japanese student discovers a terrifying website.",
       image: "https://w0.peakpx.com/wallpaper/1014/179/HD-wallpaper-you-re-next-grim-reaper-dog-tags-ring.jpg",
-      link: "#star"
+      link: "/stories/star"
     },
     {
       title: "Endless Loop in the Desert",
       excerpt: "A man trapped in a nightmarish desert loop.",
       image: "https://designerapp.officeapps.live.com/designerapp/document.ashx?path=/0e98d7cb-0ffd-462d-88e8-8285a041b7b8/DallEGeneratedImages/dalle-b6b7cea1-2627-4805-a841-2f016ff7690c0251685071212913652900.jpg",
-      link: "#desert"
+      link: "/stories/desert"
     },
     {
       title: "Sir, I'm the Murderer",
       excerpt: "A beautiful woman confesses to multiple murders.",
       image: "https://www.shutterstock.com/image-photo/word-murder-written-old-typewriter-260nw-136871513.jpg",
-      link: "#murderer"
+      link: "/stories/murderer"
     },
     {
       title: "Her Old Piano",
       excerpt: "A mysterious piano with a dark secret.",
       image: "https://designerapp.officeapps.live.com/designerapp/document.ashx?path=/0e98d7cb-0ffd-462d-88e8-8285a041b7b8/DallEGeneratedImages/dalle-c650894c-50da-42c4-8f14-7696f9c78b090251685070677547255700.jpg",
-      link: "#piano"
+      link: "/stories/piano"
     }
   ];
 
