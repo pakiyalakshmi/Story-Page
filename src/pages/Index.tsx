@@ -35,16 +35,16 @@ const Index = () => {
       link: "/stories/desert"
     },
     {
-      title: "Sir, I'm the Murderer",
-      excerpt: "A beautiful woman confesses to multiple murders.",
-      image: "https://www.shutterstock.com/image-photo/word-murder-written-old-typewriter-260nw-136871513.jpg",
-      link: "/stories/murderer"
-    },
-    {
       title: "Her Old Piano",
       excerpt: "A mysterious piano with a dark secret.",
       image: "https://designerapp.officeapps.live.com/designerapp/document.ashx?path=/0e98d7cb-0ffd-462d-88e8-8285a041b7b8/DallEGeneratedImages/dalle-c650894c-50da-42c4-8f14-7696f9c78b090251685070677547255700.jpg",
       link: "/stories/piano"
+    },
+    {
+      title: "I'm Behind You... Turn Around",
+      excerpt: "A terrifying night alone at home.",
+      image: "https://cdn.gencraft.com/prod/user/e0b9a798-b13a-4431-bff7-451215008a71/bf7898d1-41ee-40bf-a6f8-ed03f4186fbe/image/image0_0.jpg",
+      link: "/stories/behind-you"
     }
   ];
 
